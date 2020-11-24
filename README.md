@@ -1,7 +1,9 @@
 # finalloyal
 
-A new Flutter application.
+This is the mobile part for the Customer Loyalty System that is being built. It is made using flutter.
 
+
+Go to https://github.com/abel-shife/CLP_Web to see the mobile app built using flutter.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
